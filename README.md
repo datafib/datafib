@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1>Hi, I'm Afib! <br/><a href="https://https://github.com/datafib">IT Engineer</a>, <a href="https://www.linkedin.com/in/a-ibrahim-423ab129/">Cybersecurity Professional</a></h1>
 
-<!--
-**datafib/datafib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Network Security</b>
+  - to be updated
+- <b>Wireless Network Security</b>
+  - to be updated
+- <b>Mobile Device Security</b>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+  - <b>IoT and OT Security</b>
+  - 
+
+  - <b>Data Security</b>
+  - 
+
+
+- <b>Network Traffic Monitoring</b>
+ 
+- <b>IoT and OT Security</b>
+
+- 
+<h2>📺 Technical Skills</h2>
+
+<h2> 🤳 Certifications:</h2>
+
+
+
 -->
